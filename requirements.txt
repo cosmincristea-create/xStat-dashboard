@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
+mplsoccer
+scipy
+scikit-learn
+adjustText
